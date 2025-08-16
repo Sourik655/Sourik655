@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)]
+![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 <h1 align="center">Hi 👋, I'm Sourik Banerjee</h1>
 <h3 align="center">A passionate Electronics and Communication Engineer and Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
